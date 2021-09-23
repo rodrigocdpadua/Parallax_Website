@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  color: #ffffff;
+}
+.header, .footer{
+  display: flex;
+  height: 100vh;
+  background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg);
+  opacity: 0.70;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.title-two{
+  background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image2.jpg);
+  opacity: 0.70;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.title-three{
+  background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image3.jpg);
+  opacity: 0.70;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+div{
+  display: flex;
+  height: 400px;
+}
+.title-top-bottom, h1{
+  margin: auto;
+  text-align: center;
+}
+.title-top-bottom{
+  width: 400px;
+  padding: 10px;
+  background-color: #161616;
+}
+section{
+  display: block;
+  padding: 50px 80px;
+  text-align: center;
+  color: #cacaca;
+}
+h2, p{
+  display: block;
+}
+section{
+  background-color: #161616;
+}
